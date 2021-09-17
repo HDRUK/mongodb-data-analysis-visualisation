@@ -1,4 +1,4 @@
-# This notebook provides a visualition of the mongodb database to find any corellation between quality_score/quality_rating and Data access request.
+This notebook provides a visualition of the mongodb database to find any corellation between quality_score/quality_rating and Data access request.
 
 ![DAR's for each medallian values](https://github.com/HDRUK/mongodb-data-analysis-visualisation/blob/master/plots/Dataset%20count%20for%20each%20medallian%20values.png)
 
